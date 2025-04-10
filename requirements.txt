@@ -1,0 +1,8 @@
+pyrogram
+pyromod
+motor
+TgCrypto
+Dnspython
+telebot
+pymongo
+psutil
